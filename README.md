@@ -1,5 +1,6 @@
 # COSmic
-A Web-based editor for InterSystems Caché, inspired by [Ace](http://ace.c9.io) `(Ajax.org Cloud9 Editor)`
+A Web-based editor for InterSystems Caché, inspired by [Ace](http://ace.c9.io) `(Ajax.org Cloud9 Editor)`.
+COSmic uses [codemirror](http://codemirror.net) as editor.
 
 
 ### Installation
